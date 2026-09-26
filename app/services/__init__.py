@@ -1,1 +1,1 @@
-"""AI service package."""
+"""Dış servis katmanı."""
